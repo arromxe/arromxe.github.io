@@ -7,7 +7,7 @@ title:ARROMXE
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>7CF</title>
+  <title>1999</title>
   <style>
     body {
       font-family: "Helvetica", Arial, sans-serif;
@@ -15,12 +15,13 @@ title:ARROMXE
       margin: 2rem auto;
       line-height: 1.6;
       padding: 0 1rem;
+      text-transform: uppercase;
+      font-weight: 700;
     }
     h1 { margin-bottom: 2rem; text-align: center; }
     li { margin-bottom: 0.5rem; }
   </style>
 </head>
-<h1>7CF</h1>
 <ul style='text-align: center; list-style-type: none;'>
   {% for post in site.posts %}
     <li>{{ post.date | date: "%B %d, %Y" }} — <a href="{{ post.url }}">{{ post.title }}</a></li>
