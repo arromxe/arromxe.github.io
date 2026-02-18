@@ -32,27 +32,17 @@ date: 2026-02-18
 - romance is dead
 - lovenotes-and-nightmares
 - die slow
-- Blod Besvimelse (remix) (gnome vs knights) (gnomecore)
-- Blod Besvimelse (REMIX) (SLOWED) (gnome vs knights)
 - SUICIDE (feat. offaflat)
 - starmix
 
 ## 2023
 
-- fresh im fresh im fresh (IM FRESH REMIX)
+- fresh im fresh im fresh
 - ocd
 - thissongcame2meinadream
 - (euro, 16-bit, 180 bpm)
 - madness (hard orchestral)
-- 2013 club (hard club)
-- Break ur heart (euro/cute club)
-- Cello (orchestral glo)
-- GloCity2 (glo)
-- GloCity1 (glo)
-- square (soft cute glo)
-- truly urs (instrumental) (glo/anime)
-- thick saw (hard)
-- Final Fantasy (orchestral glo)
+- Final Fantasy
 - bad (feat. Kylok)
 - lifeline
 - g-st☆r
@@ -78,7 +68,7 @@ date: 2026-02-18
 - waste
 - haloes & hellfire (feat. pradaaslife)
 - must b nice
-- MONEYDEMON [NightCollege]
+- MONEYDEMON
 
 ## 2021
 
