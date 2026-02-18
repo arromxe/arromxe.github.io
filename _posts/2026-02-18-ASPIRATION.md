@@ -15,3 +15,10 @@ I want to provide a black box in which one can escape without getting lost.
 I create to understand myself and help others once I do.
 
 I try to be the best I can be, and feel so ecstatic when I'm inspired. That is what I would like to propagate. I live for art, it's inevitable.
+
+
+
+
+---
+
+I would love, and desperately need to have a platform and guidance to achieve my goals.
