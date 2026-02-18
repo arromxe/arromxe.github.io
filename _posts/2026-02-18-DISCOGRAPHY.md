@@ -1,8 +1,9 @@
 ---
-layout: default
-title: Discography
-permalink: /discography/
+layout: post
+title: "DISCOGRAPHY"
+date: 2026-02-18
 ---
+
 
 # Discography
 
