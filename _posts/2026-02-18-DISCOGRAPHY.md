@@ -7,6 +7,9 @@ date: 2026-02-18
 
 # Discography
 
+[LISTEN NOW ON ALL PLATFORMS](https://soundcloud.com/illsaberr/tracks)
+
+---
 ## 2026
 
 - Privé
