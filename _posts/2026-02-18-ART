@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+# Image Gallery
+
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;">
+
+{% assign image_files = site.static_files | where_exp: "file", "file.path contains '/imgs1/' and file.extname == '.png'" %}
+
+{% for image in image_files %}
+  <div>
+    <img src="{{ image.path | relative_url }}" alt="{{ image.name }}" style="width:100%;height:auto;">
+  </div>
+{% endfor %}
+
+</div>
